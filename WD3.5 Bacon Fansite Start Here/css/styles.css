@@ -1,0 +1,31 @@
+/* Tag Selectors */
+h1{
+  color: red;
+  font-size: 200px;
+}
+img:hover{
+  background-color: gold;
+  /*:hover changes the background gold when hovered over by the mouse*/
+}
+
+/*Class Selectors - for more specific styles*/
+.bacon{
+  background-color: green;
+}
+.broccoli{
+  background-color: red;
+}
+.circular{
+  border-radius: 100%;
+}
+/*
+comments
+*/
+/*there can be more than one class per item*/
+/*ID Selectors*/
+#heading{
+  color: blue;
+}
+/*ID > tag*
+IDs can only be used once;
+*/

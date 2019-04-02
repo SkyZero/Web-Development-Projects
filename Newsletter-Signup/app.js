@@ -72,3 +72,4 @@ app.listen(process.env.PORT || 3000, function(){ //dynamic port that heroku uses
 
 
 //in Procfile, tell heroku to open procfile and run the text within that file
+//follow heroku guide
